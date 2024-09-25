@@ -7,7 +7,7 @@ class CuentaBancaria {
       this.saldo = saldo       
       this.numero = numero     
       CuentaBancaria.numeroCuentas++ 
-  
+    }
     // Métodos públicos
   
     // Devuelve el saldo actual
